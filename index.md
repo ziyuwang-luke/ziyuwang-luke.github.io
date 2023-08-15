@@ -76,7 +76,8 @@ layout: default
 # **skills**
 - **Technical skills:** MATLAB, LaTeX, Mathematica, Python, C++, SQL
 - **Languages:** Mandarin (native), English (fluent)
-# Curriculum Vitae[Link](https://github.com/ziyuwang-luke/ziyuwang-luke.github.io/blob/master/docs/CV_Ziyu%20Wang.pdf)
+
+# **Curriculum Vitae**[Link](https://github.com/ziyuwang-luke/ziyuwang-luke.github.io/blob/master/docs/CV_Ziyu%20Wang.pdf)
 
 
 
