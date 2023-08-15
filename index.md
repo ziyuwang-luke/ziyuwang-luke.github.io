@@ -4,6 +4,23 @@ layout: default
 &nbsp;
 # **research experience**
 
+|<b>Research on moiré excitons in MoSe<sub>2</sub>/WS<sub>2</sub> heterostructures</b>|**Berkeley, CA**|
+| :- | -: |
+|*Advisor: Prof. Feng Wang, Department of Physics, **UC Berkeley***|Jan. 2023 – Aug. 2023|
+
+- Created devices of 2D materials and conducted optical measurements (absorption spectroscopy and photoluminescence measurements) on 2D devices and analyzed experimental data.
+- Completed literature review of the MoSe2/WS2 system.
+- Calculated the dipole-dipole interaction and exchange of excitons on moiré superlattices.
+
+ <img src="docs/2.3.png" alt="project2.3" width="300" height="200"> <img src="docs/2.1.png" alt="project2.1" width="300" height="200"> <img src="docs/2.2.png" alt="project2.2" width="300" height="200">
+<img src="docs/2.4.png" alt="project2.4" width="300" height="200">
+|**Bogoliubov Quasiparticle Interference Imaging of Unconventional Superconductors**<a href="docs/Technical details of BQPI simulation.pdf" style="font-size:20px;">Link</a>|**Notre Dame, IN**|
+| :- | -: |
+|*Advisor: Prof. Xiaolong Liu, Department of Physics & Astronomy, **Notre Dame University***|May 2022 – Aug. 2022|
+
+- Developed a MATLAB GUI to calculate the interference imaging of different materials. Retrievable from [https://github.com/zyw2362382/BQPI_APP](https://github.com/zyw2362382/BQPI_APP).
+- Compared calculated results with experimental observations.
+
 |**Research on superhydrophobic triboelectric nanogenerators.**|**Xi’an, China**|
 | :- | -: |
 |*Advisor: Prof. Zhifu Zhou, School of Energy and Power Engineering, **Xi’an Jiaotong University***|Sept. 2021 - May 2022|
@@ -15,22 +32,6 @@ layout: default
 - Wrote a national patent as the first student-author.
 
 <img src="docs/1.png" alt="project1.1" width="300" height="200"> <img src="docs/2.png" alt="project1.2" width="300" height="200"> <img src="docs/4.png" alt="project1.4" width="300" height="200">
-
-|**Bogoliubov Quasiparticle Interference Imaging of Unconventional Superconductors**|**Notre Dame, IN**|
-| :- | -: |
-|*Advisor: Prof. Xiaolong Liu, Department of Physics & Astronomy, **Notre Dame University***|May 2022 – Aug. 2022|
-
-- Developed a MATLAB GUI to calculate the interference imaging of different materials.
-- Compared calculated results with experimental observations.
-
-
-|<b>Research on moiré excitons in MoSe<sub>2</sub>/WS<sub>2</sub> heterostructures</b>|**Berkeley, CA**|
-| :- | -: |
-|*Advisor: Prof. Feng Wang, Department of Physics, **UC Berkeley***|Jan. 2023 – Aug. 2023|
-
-- Created devices of 2D materials and conducted optical measurements (absorption spectroscopy and photoluminescence measurements) on 2D devices and analyzed experimental data.
-- Completed literature review of the MoSe2/WS2 system.
-- Calculated the dipole-dipole interaction and exchange of excitons on moiré superlattices.
 
 # **education**
 
