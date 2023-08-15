@@ -80,7 +80,7 @@ layout: default
 - **Technical skills:** MATLAB, LaTeX, Mathematica, Python, C++, SQL
 - **Languages:** Mandarin (native), English (fluent)
 
-# **Curriculum Vitae**<a href="docs/CV_Ziyu Wang.pdf" style="font-size:16px;">Link</a>
+# **Curriculum Vitae**<a href="docs/CV_Ziyu Wang.pdf" style="font-size:8px;">Link</a>
 
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
