@@ -25,7 +25,9 @@ layout: default
 - Developed a MATLAB GUI to calculate the interference imaging of different materials. Retrievable from [https://github.com/zyw2362382/BQPI_APP](https://github.com/zyw2362382/BQPI_APP).
 - Compared calculated results with experimental observations.
 
+<div style="text-align:center;">
 <img src="docs/3.1.png" alt="project3.1" width="400" height="200">
+</div>
 
 |**Research on superhydrophobic triboelectric nanogenerators**|**Xi’an, China**|
 | :- | -: |
