@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<span style="color:black">Profile
 
 # **research experience**
 
@@ -14,7 +13,7 @@ layout: default
 - Designed a Rainwater Energy Harvester using flexible triboelectric nanogenerators and piezoelectric materials.
 - Composed a literature review report summarizing the research progress on wearable triboelectric nanogenerators.
 - Wrote a national patent as the first student-author.
-
+<img src="docs/1.png" alt="project1.1" width="300" height="200">
 
 |**Bogoliubov Quasiparticle Interference Imaging of Unconventional Superconductors**|**Notre Dame, IN**|
 | :- | -: |
