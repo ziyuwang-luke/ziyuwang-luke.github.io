@@ -14,7 +14,7 @@ layout: default
 
 <img src="docs/2.1.png" alt="project2.1" width="300" height="200"> <img src="docs/2.2.png" alt="project2.2" width="300" height="200">
 
-<img src="docs/2.3.png" alt="project2.3" width="300" height="150"> <img src="docs/2.4.png" alt="project2.4" width="300" height="500">
+<img src="docs/2.3.png" alt="project2.3" width="300" height="150"> <img src="docs/2.4.png" alt="project2.4" width="300" height="200">
 
 |**Bogoliubov Quasiparticle Interference Imaging of Unconventional Superconductors**<a href="docs/Technical details of BQPI simulation.pdf" style="font-size:15px;">Link</a>|**Notre Dame, IN**|
 | :- | -: |
