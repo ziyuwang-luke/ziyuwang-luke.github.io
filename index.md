@@ -1,33 +1,7 @@
 ---
 layout: default
 ---
-
-# **education**
-
-|**Xi’an Jiaotong University**|**Xi’an, China**|
-| :- | -: |
-|*Bachelor of Science in Physics*|Sept. 2020 - June 2024|
-
-- **Average Grade:** 90.02/100; **GPA:** 3.82/4.3
-- **Courses:** Mechanics (100/100), Electromagnetism (90/100), General Thermal Physics (96/100), Optics (91/100), General Physics-Atomic Physics (99/100), Theoretical Mechanics (98/100), Electrodynamics (94/100), Mathematical Methods in Physics (95/100)
-- **Honors:**
-  - **Finalist Prize** of COMAP’s Mathematical Contest in Modeling (MCM)<sup>®</sup> (Top 2% of all participating teams worldwide) (2022)
-  - School First Prize in Xi’an Jiaotong University (2022)
-  - Outstanding student in Xi’an Jiaotong University (2022)
-  - 2022 Provincial-level College Student Innovation Training Project - Excellent (2022)
-  - 33rd Tengfei Cup School-level Excellence Award (2022)
-  - Provincial First Prize in National Mathematics Contest (2021)
-
-
-|**University of California, Berkeley**|**Berkeley, CA**|
-| :- | -: |
-|*Exchange Student*|Jan. 2023 – Aug. 2023|
-
-- **GPA:** 4.00/4.00
-- **Courses:** Quantum Mechanics (A+), Special Relativity and General Relativity (A+), Solid State Physics (A+)
-
-# **patents**
-- Zhou, Z., **Wang, Z.**, Tang, Z., et al. (2023). A plant-wearable self-powering system based on droplet frictional electricity and its method. Shaanxi Province: Patent Application No. CN115967297A
+Profile
 
 # **research experience**
 
@@ -57,6 +31,35 @@ layout: default
 - Created devices of 2D materials and conducted optical measurements (absorption spectroscopy and photoluminescence measurements) on 2D devices and analyzed experimental data.
 - Completed literature review of the MoSe2/WS2 system.
 - Calculated the dipole-dipole interaction and exchange of excitons on moiré superlattices.
+
+# **education**
+
+|**Xi’an Jiaotong University**|**Xi’an, China**|
+| :- | -: |
+|*Bachelor of Science in Physics*|Sept. 2020 - June 2024|
+
+- **Average Grade:** 90.02/100; **GPA:** 3.82/4.3
+- **Courses:** Mechanics (100/100), Electromagnetism (90/100), General Thermal Physics (96/100), Optics (91/100), General Physics-Atomic Physics (99/100), Theoretical Mechanics (98/100), Electrodynamics (94/100), Mathematical Methods in Physics (95/100)
+- **Honors:**
+  - **Finalist Prize** of COMAP’s Mathematical Contest in Modeling (MCM)<sup>®</sup> (Top 2% of all participating teams worldwide) (2022)
+  - School First Prize in Xi’an Jiaotong University (2022)
+  - Outstanding student in Xi’an Jiaotong University (2022)
+  - 2022 Provincial-level College Student Innovation Training Project - Excellent (2022)
+  - 33rd Tengfei Cup School-level Excellence Award (2022)
+  - Provincial First Prize in National Mathematics Contest (2021)
+
+
+|**University of California, Berkeley**|**Berkeley, CA**|
+| :- | -: |
+|*Exchange Student*|Jan. 2023 – Aug. 2023|
+
+- **GPA:** 4.00/4.00
+- **Courses:** Quantum Mechanics (A+), Special Relativity and General Relativity (A+), Solid State Physics (A+)
+
+# **patents**
+- Zhou, Z., **Wang, Z.**, Tang, Z., et al. (2023). A plant-wearable self-powering system based on droplet frictional electricity and its method. Shaanxi Province: Patent Application No. CN115967297A
+
+
 
 # **activities** 
 
@@ -173,7 +176,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](docs/1.png)
 
 ### Large image
 
