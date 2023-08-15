@@ -71,11 +71,12 @@ layout: default
 
 - **GPA:** 4.00/4.00
 - **Courses:** Quantum Mechanics (A+), Special Relativity and General Relativity (A+), Solid State Physics (A+)
+<br>
 
 # **patents**
 - Zhou, Z., **Wang, Z.**, Tang, Z., et al. (2023). A plant-wearable self-powering system based on droplet frictional electricity and its method. Shaanxi Province: Patent Application No. CN115967297A [link](docs/CN202211717835.pdf)
 
-
+<br>
 
 # **activities** 
 
@@ -91,11 +92,11 @@ layout: default
 |*A Member of Software Programming Group*|Aug. 2021 – Nov. 2021|
 
 - Wrote and uploaded programs to STM32 microcontrollers using Keil and J-Link software
-
+<br>
 # **skills**
 - **Technical skills:** MATLAB, LaTeX, Mathematica, Python, C++, SQL
 - **Languages:** Mandarin (native), English (fluent)
-
+<br>
 # **Curriculum Vitae**  <a href="docs/CV_Ziyu Wang.pdf" style="font-size:20px;">Link</a>
 
 
