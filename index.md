@@ -43,7 +43,10 @@ layout: default
 - Composed a literature review report summarizing the research progress on wearable triboelectric nanogenerators.
 - Wrote a national patent as the first student-author. [link](docs/CN202211717835.pdf)
 
+<div style="text-align:center;">
 <img src="docs/1.png" alt="project1.1" width="300" height="200"> <img src="docs/2.png" alt="project1.2" width="300" height="200"> <img src="docs/4.png" alt="project1.4" width="300" height="200">
+</div>
+
 
 # **education**
 
