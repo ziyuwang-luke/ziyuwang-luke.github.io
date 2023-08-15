@@ -14,7 +14,7 @@ layout: default
 - Composed a literature review report summarizing the research progress on wearable triboelectric nanogenerators.
 - Wrote a national patent as the first student-author.
 
-<img src="docs/1.png" alt="project1.1" width="300" height="200">
+<img src="docs/1.png" alt="project1.1" width="300" height="200"> <img src="docs/2.png" alt="project1.2" width="300" height="200"> <img src="docs/3.png" alt="project1.3" width="300" height="200"> <img src="docs/4.png" alt="project1.4" width="300" height="200">
 
 |**Bogoliubov Quasiparticle Interference Imaging of Unconventional Superconductors**|**Notre Dame, IN**|
 | :- | -: |
