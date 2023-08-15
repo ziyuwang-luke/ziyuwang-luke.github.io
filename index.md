@@ -2,10 +2,6 @@
 layout: default
 ---
 
-**Ziyu Wang**
-
-ziyuwang@berkeley.edu | (510) 646-3805 | Berkeley, CA 94704
-
 # **education**
 
 |**Xi’an Jiaotong University**|**Xi’an, China**|
@@ -23,7 +19,7 @@ ziyuwang@berkeley.edu | (510) 646-3805 | Berkeley, CA 94704
   - Provincial First Prize in National Mathematics Contest (2021)
 
 
-|**University of California, Berkeley**|`	`**Berkeley, CA**|
+|**University of California, Berkeley**|**Berkeley, CA**|
 | :- | -: |
 |*Exchange Student*|Jan. 2023 – Aug. 2023|
 
@@ -46,7 +42,7 @@ ziyuwang@berkeley.edu | (510) 646-3805 | Berkeley, CA 94704
 - Wrote a national patent as the first student-author.
 
 
-|**Bogoliubov Quasiparticle Interference Imaging of Unconventional Superconductors**|`	`**Notre Dame, IN**|
+|**Bogoliubov Quasiparticle Interference Imaging of Unconventional Superconductors**|**Notre Dame, IN**|
 | :- | -: |
 |*Advisor: Prof. Xiaolong Liu, Department of Physics & Astronomy, **Notre Dame University***|May 2022 – Aug. 2022|
 
@@ -54,7 +50,7 @@ ziyuwang@berkeley.edu | (510) 646-3805 | Berkeley, CA 94704
 - Compared calculated results with experimental observations.
 
 
-|<b>Research on moiré excitons in MoSe<sub>2</sub>/WS<sub>2</sub> heterostructures</b>|`	`**Berkeley, CA**|
+|<b>Research on moiré excitons in MoSe<sub>2</sub>/WS<sub>2</sub> heterostructures</b>|**Berkeley, CA**|
 | :- | -: |
 |*Advisor: Prof. Feng Wang, Department of Physics, **UC Berkeley***|Jan. 2023 – Aug. 2023|
 
