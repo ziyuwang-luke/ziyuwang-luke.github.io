@@ -46,6 +46,7 @@ layout: default
 <div style="text-align:center;">
 <img src="docs/1.png" alt="project1.1" width="300" height="200"> <img src="docs/2.png" alt="project1.2" width="300" height="200"> <img src="docs/4.png" alt="project1.4" width="300" height="200">
 </div>
+
 <br>
 
 # **education**
@@ -71,6 +72,7 @@ layout: default
 
 - **GPA:** 4.00/4.00
 - **Courses:** Quantum Mechanics (A+), Special Relativity and General Relativity (A+), Solid State Physics (A+)
+
 <br>
 
 # **patents**
@@ -92,11 +94,15 @@ layout: default
 |*A Member of Software Programming Group*|Aug. 2021 – Nov. 2021|
 
 - Wrote and uploaded programs to STM32 microcontrollers using Keil and J-Link software
+
 <br>
+
 # **skills**
 - **Technical skills:** MATLAB, LaTeX, Mathematica, Python, C++, SQL
 - **Languages:** Mandarin (native), English (fluent)
+
 <br>
+
 # **Curriculum Vitae**  <a href="docs/CV_Ziyu Wang.pdf" style="font-size:20px;">Link</a>
 
 
