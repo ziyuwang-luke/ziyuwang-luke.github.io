@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Profile
+<span style="color:black">Profile
 
 # **research experience**
 
