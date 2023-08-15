@@ -6,5 +6,14 @@
         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     ga('create', '{{ site.google_analytics }}', 'auto');
     ga('send', 'pageview');
+    <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7BS8NTC290"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'G-7BS8NTC290');
+  </script>
   </script>
 {% endif %}
