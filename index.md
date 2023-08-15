@@ -31,7 +31,7 @@ layout: default
 
 # **research experience**
 
-|**Research on superhydrophobic triboelectric nanogenerators[Link](https://drive.google.com/file/d/1AbSzEeYrtRvZEDmAY_OwU0cRlWJP4KUz/view).**|**Xi’an, China**|
+|**Research on superhydrophobic triboelectric nanogenerators.**|**Xi’an, China**|
 | :- | -: |
 |*Advisor: Prof. Zhifu Zhou, School of Energy and Power Engineering, **Xi’an Jiaotong University***|Sept. 2021 - May 2022|
 
@@ -76,7 +76,7 @@ layout: default
 # **skills**
 - **Technical skills:** MATLAB, LaTeX, Mathematica, Python, C++, SQL
 - **Languages:** Mandarin (native), English (fluent)
-
+# Curriculum Vitae[Link](https://github.com/ziyuwang-luke/ziyuwang-luke.github.io/blob/master/docs/CV_Ziyu%20Wang.pdf)
 
 
 
