@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# 
+<span style="color:black"> .
 # **research experience**
 
 |**Research on superhydrophobic triboelectric nanogenerators.**|**Xi’an, China**|
