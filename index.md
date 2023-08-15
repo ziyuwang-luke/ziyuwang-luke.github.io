@@ -11,7 +11,7 @@ layout: default
 - Created devices of 2D materials and conducted optical measurements (absorption spectroscopy and photoluminescence measurements) on 2D devices and analyzed experimental data.
 - Completed literature review of the MoSe2/WS2 system.
 - Calculated the dipole-dipole interaction and exchange of excitons on moiré superlattices.
-
+<br>
 <div style="text-align:center;">
 <img src="docs/2.1.png" alt="project2.1" width="300" height="200"> <img src="docs/2.2.png" alt="project2.2" width="300" height="200">
 </div>
@@ -19,7 +19,7 @@ layout: default
 <div style="text-align:center;">
 <img src="docs/2.3.png" alt="project2.3" width="300" height="150"> <img src="docs/2.4.png" alt="project2.4" width="300" height="250">
 </div>
-
+<br>
 
 |**Bogoliubov Quasiparticle Interference Imaging of Unconventional Superconductors** <a href="docs/Technical details of BQPI simulation.pdf" style="font-size:15px;">Link</a>|**Notre Dame, IN**|
 | :- | -: |
@@ -27,11 +27,11 @@ layout: default
 
 - Developed a MATLAB GUI to calculate the interference imaging of different materials. Retrievable from [https://github.com/zyw2362382/BQPI_APP](https://github.com/zyw2362382/BQPI_APP).
 - Compared calculated results with experimental observations.
-
+<br>
 <div style="text-align:center;">
 <img src="docs/3.1.png" alt="project3.1" width="400" height="200">
 </div>
-
+<br>
 
 |**Research on superhydrophobic triboelectric nanogenerators**|**Xi’an, China**|
 | :- | -: |
@@ -42,11 +42,11 @@ layout: default
 - Designed a Rainwater Energy Harvester using flexible triboelectric nanogenerators and piezoelectric materials.
 - Composed a literature review report summarizing the research progress on wearable triboelectric nanogenerators.
 - Wrote a national patent as the first student-author. [link](docs/CN202211717835.pdf)
-
+<br>
 <div style="text-align:center;">
 <img src="docs/1.png" alt="project1.1" width="300" height="200"> <img src="docs/2.png" alt="project1.2" width="300" height="200"> <img src="docs/4.png" alt="project1.4" width="300" height="200">
 </div>
-
+<br>
 
 # **education**
 
