@@ -12,17 +12,18 @@ layout: default
 - Completed literature review of the MoSe2/WS2 system.
 - Calculated the dipole-dipole interaction and exchange of excitons on moiré superlattices.
 
-<img src="docs/2.3.png" alt="project2.3" width="300" height="150"> <img src="docs/2.1.png" alt="project2.1" width="300" height="200"> <img src="docs/2.2.png" alt="project2.2" width="300" height="200">
-<img src="docs/2.4.png" alt="project2.4" width="300" height="500">
+<img src="docs/2.1.png" alt="project2.1" width="300" height="200"> <img src="docs/2.2.png" alt="project2.2" width="300" height="200">
 
-|**Bogoliubov Quasiparticle Interference Imaging of Unconventional Superconductors**<a href="docs/Technical details of BQPI simulation.pdf" style="font-size:20px;">Link</a>|**Notre Dame, IN**|
+<img src="docs/2.3.png" alt="project2.3" width="300" height="150"> <img src="docs/2.4.png" alt="project2.4" width="300" height="500">
+
+|**Bogoliubov Quasiparticle Interference Imaging of Unconventional Superconductors**<a href="docs/Technical details of BQPI simulation.pdf" style="font-size:15px;">Link</a>|**Notre Dame, IN**|
 | :- | -: |
 |*Advisor: Prof. Xiaolong Liu, Department of Physics & Astronomy, **Notre Dame University***|May 2022 – Aug. 2022|
 
 - Developed a MATLAB GUI to calculate the interference imaging of different materials. Retrievable from [https://github.com/zyw2362382/BQPI_APP](https://github.com/zyw2362382/BQPI_APP).
 - Compared calculated results with experimental observations.
 
-|**Research on superhydrophobic triboelectric nanogenerators.**|**Xi’an, China**|
+|**Research on superhydrophobic triboelectric nanogenerators**|**Xi’an, China**|
 | :- | -: |
 |*Advisor: Prof. Zhifu Zhou, School of Energy and Power Engineering, **Xi’an Jiaotong University***|Sept. 2021 - May 2022|
 
