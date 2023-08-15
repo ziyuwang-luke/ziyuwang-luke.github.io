@@ -16,12 +16,14 @@ layout: default
 
 <img src="docs/2.3.png" alt="project2.3" width="300" height="150"> <img src="docs/2.4.png" alt="project2.4" width="300" height="250">
 
-|**Bogoliubov Quasiparticle Interference Imaging of Unconventional Superconductors**<a href="docs/Technical details of BQPI simulation.pdf" style="font-size:15px;">Link</a>|**Notre Dame, IN**|
+|**Bogoliubov Quasiparticle Interference Imaging of Unconventional Superconductors** <a href="docs/Technical details of BQPI simulation.pdf" style="font-size:15px;">Link</a>|**Notre Dame, IN**|
 | :- | -: |
 |*Advisor: Prof. Xiaolong Liu, Department of Physics & Astronomy, **Notre Dame University***|May 2022 – Aug. 2022|
 
 - Developed a MATLAB GUI to calculate the interference imaging of different materials. Retrievable from [https://github.com/zyw2362382/BQPI_APP](https://github.com/zyw2362382/BQPI_APP).
 - Compared calculated results with experimental observations.
+
+<img src="docs/3.1.png" alt="project3.1" width="300" height="200">
 
 |**Research on superhydrophobic triboelectric nanogenerators**|**Xi’an, China**|
 | :- | -: |
