@@ -28,7 +28,7 @@ layout: default
 - Compared calculated results with experimental observations.
 
 <div style="text-align:center;">
-<img src="docs/3.1.png" alt="project3.1" width="400" height="200">
+<img src="docs/3.png" alt="project3.1" width="400" height="200">
 </div>
 
 |**Research on superhydrophobic triboelectric nanogenerators**|**Xi’an, China**|
