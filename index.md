@@ -31,7 +31,7 @@ layout: default
 
 # **research experience**
 
-|**Research on superhydrophobic triboelectric nanogenerators**|**Xi’an, China**|
+|**Research on superhydrophobic triboelectric nanogenerators[Link](https://drive.google.com/file/d/1AbSzEeYrtRvZEDmAY_OwU0cRlWJP4KUz/view).**|**Xi’an, China**|
 | :- | -: |
 |*Advisor: Prof. Zhifu Zhou, School of Energy and Power Engineering, **Xi’an Jiaotong University***|Sept. 2021 - May 2022|
 
