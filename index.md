@@ -9,7 +9,7 @@ layout: default
 |*Advisor: Prof. Feng Wang, Department of Physics, **UC Berkeley***|Jan. 2023 – Aug. 2023|
 
 - Created devices of 2D materials and conducted optical measurements (absorption spectroscopy and photoluminescence measurements) on 2D devices and analyzed experimental data.
-- Completed literature review of the MoSe2/WS2 system.
+- Calculated the reflectance spectrum of given 2D devices using the transfer-matrix method.
 - Calculated the dipole-dipole interaction and exchange of excitons on moiré superlattices.
 <br>
 <div style="text-align:center;">
@@ -25,8 +25,8 @@ layout: default
 | :- | -: |
 |*Advisor: Prof. Xiaolong Liu, Department of Physics & Astronomy, **Notre Dame University***|May 2022 – Aug. 2022|
 
-- Developed a MATLAB GUI to calculate the interference imaging of different materials. Retrievable from [https://github.com/zyw2362382/BQPI_APP](https://github.com/zyw2362382/BQPI_APP).
-- Compared calculated results with experimental observations.
+- Developed a MATLAB GUI to calculate quasiparticle interference patterns for different materials. Retrievable from [https://github.com/zyw2362382/BQPI_APP](https://github.com/zyw2362382/BQPI_APP).
+- Calculated quasiparticle interference patterns of Bi<sub>2</sub>S<sub>2</sub>CaCu<sub>2</sub>O<sub>8+δ</sub> by giving a predicted energy band and energy gap structure and compared calculated results with experimental observations.
 <br>
 <div style="text-align:center;">
 <img src="docs/3.1.png" alt="project3.1" width="400" height="200">
@@ -40,7 +40,6 @@ layout: default
 - Improved the performance of flexible triboelectric nanogenerators through surface treatment technology and Laser-Induced Graphene technology.
 - Enhanced the energy storage process of flexible triboelectric nanogenerators using Micro-Supercapacitor.
 - Designed a Rainwater Energy Harvester using flexible triboelectric nanogenerators and piezoelectric materials.
-- Composed a literature review report summarizing the research progress on wearable triboelectric nanogenerators.
 - Wrote a national patent as the first student-author. [link](docs/CN202211717835.pdf)
 <br>
 <div style="text-align:center;">
@@ -76,7 +75,7 @@ layout: default
 <br>
 
 # **patents**
-- Zhou, Z., **Wang, Z.**, Tang, Z., et al. (2023). A plant-wearable self-powering system based on droplet frictional electricity and its method. Shaanxi Province: Patent Application No. CN115967297A [link](docs/CN202211717835.pdf)
+- Zhou, Z., **Wang, Z.**, Tang, Z., et al. (2023). A plant-wearable self-powering system based on droplet frictional electricity and its method. China Patent Application No. CN115967297A. China National Intellectual Property Administration. [link](docs/CN202211717835.pdf)
 
 <br>
 
