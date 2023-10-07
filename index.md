@@ -74,8 +74,9 @@ layout: default
 
 <br>
 
-# **patents**
-- Zhou, Z., **Wang, Z.**, Tang, Z., et al. (2023). A plant-wearable self-powering system based on droplet frictional electricity and its method. China Patent Application No. CN115967297A. China National Intellectual Property Administration. [link](docs/CN202211717835.pdf)
+# **publications and patents**
+- Z. Zhou, **Z. Wang**, Z. Tang, et al. (2023). A plant-wearable self-powering system based on droplet frictional electricity and its method. China Patent Application No. CN115967297A. China National Intellectual Property Administration. [link](docs/CN202211717835.pdf)
+- R. Qi, A. Y. Joe, … **Z. Wang**, … F. Wang, (submitted) Perfect Coulomb drag and exciton transport in an excitonic insulator.
 
 <br>
 
